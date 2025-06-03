@@ -1,15 +1,38 @@
-name: Purge jsDelivr Cache
+name: Auto Purge jsDelivr Cache
 
 on:
   push:
     branches:
-      - main  # 监听 main 分支的提交
+      - main
 
 jobs:
   purge:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Purge jsDelivr cache for updated assets
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get changed files
+        id: changed
         run: |
-          curl -s "https://purge.jsdelivr.net/gh/lexikeqi/2025/1/tv.m3u"
+          echo "FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E '\.(png|jpg|jpeg|gif|svg|js|css|woff2?)' || true)" >> $GITHUB_OUTPUT
+
+      - name: Purge jsDelivr cache for each changed file
+        if: steps.changed.outputs.FILES != ''
+        run: |
+          FILES="${{ steps.changed.outputs.FILES }}"
+          echo "Changed files:"
+          echo "$FILES"
+          while IFS= read -r file; do
+            # Skip deleted files
+            if [ ! -f "$file" ]; then
+              continue
+            fi
+
+            # Encode path to URL-safe format
+            ENCODED_PATH=$(python3 -c "import urllib.parse; print(urllib.parse.quote('$file'))")
+            PURGE_URL="https://purge.jsdelivr.net/gh/lexikeqi/2025/$ENCODED_PATH"
+            echo "Purging $PURGE_URL"
+            curl -s "$PURGE_URL"
+          done <<< "$FILES"
