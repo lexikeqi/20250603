@@ -16,7 +16,7 @@ jobs:
       - name: Get changed files
         id: changed
         run: |
-          echo "FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E '\.(png|jpg|jpeg|gif|svg|js|css|woff2?)' || true)" >> $GITHUB_OUTPUT
+          echo "FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E '\.(m3u|png|jpg|jpeg|gif|svg|js|css|woff2?)' || true)" >> $GITHUB_OUTPUT
 
       - name: Purge jsDelivr cache for each changed file
         if: steps.changed.outputs.FILES != ''
