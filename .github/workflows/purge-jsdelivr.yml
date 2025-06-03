@@ -1,0 +1,15 @@
+name: Purge jsDelivr Cache
+
+on:
+  push:
+    branches:
+      - main  # 监听 main 分支的提交
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Purge jsDelivr cache for updated assets
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/lexikeqi/2025/1/tv.m3u"
