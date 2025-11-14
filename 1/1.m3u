@@ -546,5 +546,7 @@ http://192.168.2.2:35455/douyin/uid/47388568477
 http://192.168.2.2:35455/douyin/uid/60873848967
 #EXTINF:-1,tvg-id="二手玫瑰" tvg-name="二手玫瑰" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/二手玫瑰.png" group-title="🎉抖音直播",二手玫瑰
 http://192.168.2.2:35455/douyin/uid/secondhandrose
+#EXTINF:-1,tvg-id="王喜" tvg-name="王喜" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/王喜.png" group-title="🎉抖音直播",王喜
+http://192.168.2.2:35455/douyin/uid/59834110771
 
 
