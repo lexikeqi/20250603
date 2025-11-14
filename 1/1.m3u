@@ -542,11 +542,11 @@ https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/13339666728414330883
 
 #EXTINF:-1,tvg-id="冤种说车" tvg-name="冤种说车" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/冤种说车.png" group-title="🎉抖音直播",冤种说车
 http://192.168.2.2:35455/douyin/uid/47388568477
-#EXTINF:-1,tvg-id="大双和二双" tvg-name="大双和二双" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/大双和二双.png" group-title="🎉抖音直播",大双和二双
+#EXTINF:-1,tvg-id="大双二双-直播号" tvg-name="大双二双-直播号" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/大双二双.png" group-title="🎉抖音直播",大双二双-直播号
 http://192.168.2.2:35455/douyin/uid/60873848967
+#EXTINF:-1,tvg-id="大双二双-生活号" tvg-name="大双二双-生活号" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/大双二双2.png" group-title="🎉抖音直播",大双二双-生活号
+http://192.168.2.2:35455/douyin/uid/101516853
 #EXTINF:-1,tvg-id="二手玫瑰" tvg-name="二手玫瑰" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/二手玫瑰.png" group-title="🎉抖音直播",二手玫瑰
 http://192.168.2.2:35455/douyin/uid/secondhandrose
 #EXTINF:-1,tvg-id="王喜" tvg-name="王喜" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/王喜.png" group-title="🎉抖音直播",王喜
 http://192.168.2.2:35455/douyin/uid/59834110771
-
-
