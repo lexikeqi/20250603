@@ -350,15 +350,15 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225876/100001000000000600000000159485
 
 #EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/凤凰卫视中文台.png" group-title="🌈外部频道",凤凰卫视中文台
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1,tvg-id="凤凰卫视中文台-HD" tvg-name="凤凰卫视中文台-HD" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/凤凰卫视中文台-HD.png" group-title="🌈外部频道",凤凰卫视中文台-HD
+#EXTINF:-1,tvg-id="凤凰卫视中文台-HD" tvg-name="凤凰卫视中文台-HD" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/凤凰卫视中文台.png" group-title="🌈外部频道",凤凰卫视中文台-HD
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/凤凰卫视资讯台.png" group-title="🌈外部频道",凤凰卫视资讯台
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1,tvg-id="凤凰卫视资讯台-HD" tvg-name="凤凰卫视资讯台-HD" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/凤凰卫视资讯台-HD.png" group-title="🌈外部频道",凤凰卫视资讯台-HD
+#EXTINF:-1,tvg-id="凤凰卫视资讯台-HD" tvg-name="凤凰卫视资讯台-HD" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/凤凰卫视资讯台.png" group-title="🌈外部频道",凤凰卫视资讯台-HD
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1,tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/凤凰卫视香港台.png" group-title="🌈外部频道",凤凰卫视香港台
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1,tvg-id="凤凰卫视香港台-HD" tvg-name="凤凰卫视香港台-HD" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/凤凰卫视香港台-HD.png" group-title="🌈外部频道",凤凰卫视香港台-HD
+#EXTINF:-1,tvg-id="凤凰卫视香港台-HD" tvg-name="凤凰卫视香港台-HD" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/凤凰卫视香港台.png" group-title="🌈外部频道",凤凰卫视香港台-HD
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
 
 #EXTINF:-1,tvg-id="1983年春晚" tvg-name="1983年春晚" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/1983年春晚.png" group-title="🏮春晚特辑",1983年春晚
@@ -458,4 +458,5 @@ http://192.168.2.2:35455/douyin/uid/101516853
 http://192.168.2.2:35455/douyin/uid/secondhandrose
 #EXTINF:-1,tvg-id="王喜" tvg-name="王喜" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/王喜.png" group-title="🎉抖音直播",王喜
 http://192.168.2.2:35455/douyin/uid/59834110771
+
 
