@@ -350,20 +350,10 @@ rtsp://222.161.239.171:554/PLTV/88888888/224/3221225566/100001000000000600000000
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225827/10000100000000060000000014313391_0.smil
 #EXTINF:-1,tvg-id="中央新影-中学生" tvg-name="中央新影-中学生" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/中央新影-中学生.png" group-title="🍉数字频道",中央新影-中学生
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225542/10000100000000060000000000029593_0.smil
-#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/中国交通.png" group-title="🍉数字频道",中国交通
-rtsp://222.161.239.171:554/PLTV/88888888/224/3221226195/10000100000000060000000015634735_0.smil
-#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/哈哈炫动.png" group-title="🍉数字频道",哈哈炫动
-rtsp://222.161.239.171:554/PLTV/88888888/224/3221225574/10000100000000060000000000029709_0.smil
-#EXTINF:-1,tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/汽摩.png" group-title="🍉数字频道",汽摩
-rtsp://222.161.239.170:554/PLTV/88888888/224/3221225797/10000100000000060000000014254508_0.smil
 #EXTINF:-1,tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/环球奇观.png" group-title="🍉数字频道",环球奇观
 rtsp://139.215.98.88/PLTV/88888888/224/3221225749/10000100000000060000000014254004_0.smil
 #EXTINF:-1,tvg-id="国学频道" tvg-name="国学频道" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/国学频道.png" group-title="🍉数字频道",国学频道
 rtsp://222.161.239.170:554/PLTV/88888888/224/3221225781/10000100000000060000000014254032_0.smil
-#EXTINF:-1,tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/百姓健康.png" group-title="🍉数字频道",百姓健康
-rtsp://222.161.239.171:554/PLTV/88888888/224/3221225872/10000100000000060000000015869926_0.smil
-#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/乐游.png" group-title="🍉数字频道",乐游
-rtsp://139.215.98.88/PLTV/88888888/224/3221225882/10000100000000060000000015948514_0.smil
 #EXTINF:-1,tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/书画频道.png" group-title="🍉数字频道",书画频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221225872/10000100000000060000000015869926_0.smil
 #EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/法治天地.png" group-title="🍉数字频道",法治天地
@@ -376,8 +366,16 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225878/100001000000000600000000159485
 rtsp://139.215.98.88/PLTV/88888888/224/3221226219/10000100000000060000000015948521_0.smil
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/动漫秀场.png" group-title="🍉数字频道",动漫秀场
 rtsp://139.215.98.88/PLTV/88888888/224/3221226217/10000100000000060000000015948524_0.smil
+#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/哈哈炫动.png" group-title="🍉数字频道",哈哈炫动
+rtsp://222.161.239.171:554/PLTV/88888888/224/3221225574/10000100000000060000000000029709_0.smil
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/游戏风云.png" group-title="🍉数字频道",游戏风云
 rtsp://139.215.98.88/PLTV/88888888/224/3221225876/10000100000000060000000015948525_0.smil
+#EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/中国交通.png" group-title="🍉数字频道",中国交通
+rtsp://222.161.239.171:554/PLTV/88888888/224/3221226195/10000100000000060000000015634735_0.smil
+#EXTINF:-1,tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/汽摩.png" group-title="🍉数字频道",汽摩
+rtsp://222.161.239.170:554/PLTV/88888888/224/3221225797/10000100000000060000000014254508_0.smil
+#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/乐游.png" group-title="🍉数字频道",乐游
+rtsp://139.215.98.88/PLTV/88888888/224/3221225882/10000100000000060000000015948514_0.smil
 
 
 
