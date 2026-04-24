@@ -103,6 +103,8 @@ rtsp://222.161.239.171:554/PLTV/88888888/224/3221225848/100001000000000600000000
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225846/10000100000000060000000015213097_0.smil
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/北京卫视.png" group-title="🏳️‍🌈卫视频道",北京卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225811/10000100000000060000000014274961_0.smil
+#EXTINF:-1,tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/北京卫视4K.png" group-title="🏳️‍🌈卫视频道",北京卫视4K
+rtsp://139.215.98.88/PLTV/88888888/224/3221225524/10000100000000060000000000029584_0.smil
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/天津卫视.png" group-title="🏳️‍🌈卫视频道",天津卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225624/10000100000000060000000014261467_0.smil
 #EXTINF:-1,tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/延边卫视.png" group-title="🏳️‍🌈卫视频道",延边卫视
@@ -113,24 +115,38 @@ rtsp://222.161.239.170:554/PLTV/88888888/224/3221226055/100001000000000600000000
 rtsp://222.161.239.170:554/PLTV/88888888/224/3221225817/10000100000000060000000014274982_0.smil
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/江苏卫视.png" group-title="🏳️‍🌈卫视频道",江苏卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225873/10000100000000060000000014817978_0.smil
+#EXTINF:-1,tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/江苏卫视4K.png" group-title="🏳️‍🌈卫视频道",江苏卫视4K
+rtsp://139.215.98.88/PLTV/88888888/224/3221225526/10000100000000060000000000029585_0.smil
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/浙江卫视.png" group-title="🏳️‍🌈卫视频道",浙江卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221226069/10000100000000060000000015417300_0.smil
+#EXTINF:-1,tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/浙江卫视4K.png" group-title="🏳️‍🌈卫视频道",浙江卫视4K
+rtsp://139.215.98.88/PLTV/88888888/224/3221225530/10000100000000060000000000029587_0.smil
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/东方卫视.png" group-title="🏳️‍🌈卫视频道",东方卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225786/10000100000000060000000014995744_0.smil
+#EXTINF:-1,tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/东方卫视4K.png" group-title="🏳️‍🌈卫视频道",东方卫视4K
+rtsp://139.215.98.88/PLTV/88888888/224/3221225572/10000100000000060000000000029666_0.smil
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/东南卫视.png" group-title="🏳️‍🌈卫视频道",东南卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225788/10000100000000060000000014995757_0.smil
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/湖南卫视.png" group-title="🏳️‍🌈卫视频道",湖南卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225813/10000100000000060000000014274977_0.smil
+#EXTINF:-1,tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/湖南卫视4K.png" group-title="🏳️‍🌈卫视频道",湖南卫视4K
+rtsp://139.215.98.88/PLTV/88888888/224/3221225500/10000100000000060000000000029511_0.smil
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/湖北卫视.png" group-title="🏳️‍🌈卫视频道",湖北卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225823/10000100000000060000000014274985_0.smil
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/深圳卫视.png" group-title="🏳️‍🌈卫视频道",深圳卫视
 rtsp://222.161.239.170:554/PLTV/88888888/224/3221225819/10000100000000060000000014274983_0.smil
+#EXTINF:-1,tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/深圳卫视4K.png" group-title="🏳️‍🌈卫视频道",深圳卫视4K
+rtsp://139.215.98.88/PLTV/88888888/224/3221225512/10000100000000060000000000029578_0.smil
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/广东卫视.png" group-title="🏳️‍🌈卫视频道",广东卫视
 rtsp://222.161.239.170:554/PLTV/88888888/224/3221225815/10000100000000060000000014274978_0.smil
+#EXTINF:-1,tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/广东卫视4K.png" group-title="🏳️‍🌈卫视频道",广东卫视4K
+rtsp://139.215.98.88/PLTV/88888888/224/3221225856/10000100000000060000000015317264_0.smil
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/广西卫视.png" group-title="🏳️‍🌈卫视频道",广西卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221226041/10000100000000060000000015242277_0.smil
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/山东卫视.png" group-title="🏳️‍🌈卫视频道",山东卫视
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225821/10000100000000060000000014274984_0.smil
+#EXTINF:-1,tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/山东卫视4K.png" group-title="🏳️‍🌈卫视频道",山东卫视4K
+rtsp://139.215.98.88/PLTV/88888888/224/3221225538/10000100000000060000000000029591_0.smil
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/山西卫视.png" group-title="🏳️‍🌈卫视频道",山西卫视
 rtsp://222.161.239.170:554/PLTV/88888888/224/3221225540/10000100000000060000000000029592_0.smil
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/重庆卫视.png" group-title="🏳️‍🌈卫视频道",重庆卫视
@@ -517,5 +533,4 @@ http://192.168.2.2:35455/douyin/uid/59834110771
 http://192.168.2.2:35455/douyin/uid/63225999108
 #EXTINF:-1,tvg-id="金太阳" tvg-name="金太阳" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/金太阳.png" group-title="🎉抖音直播",金太阳
 http://192.168.2.2:35455/douyin/uid/105315017159
-
 
