@@ -395,72 +395,61 @@ rtmp://f13h.mine.nu/sat/tv071
 rtmp://f13h.mine.nu/sat/tv051
 
 
-#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/猫和老鼠.png" group-title="🔁轮播频道",猫和老鼠
-https://live.ottiptv.cc/huya/11352879
+
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/猫和老鼠.png" group-title="🔁轮播频道",猫和老鼠
 http://192.168.2.2:35455/huya/11352879
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/哆啦A梦.png" group-title="🔁轮播频道",哆啦A梦
-https://live.ottiptv.cc/huya/11601963
-#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/哆啦A梦.png" group-title="🔁轮播频道",哆啦A梦
 http://192.168.2.2:35455/huya/11601963
-#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/七龙珠.png" group-title="🔁轮播频道",七龙珠
-https://live.ottiptv.cc/huya/11601966
-#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/七龙珠.png" group-title="🔁轮播频道",七龙珠
-#http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/七龙珠.png" group-title="🔁轮播频道",七龙珠
 http://192.168.2.2:35455/huya/11601966
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/灌篮高手.png" group-title="🔁轮播频道",灌篮高手
-https://live.ottiptv.cc/yy/1382735626
-#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/灌篮高手.png" group-title="🔁轮播频道",灌篮高手
 http://192.168.2.2:35455/huya/1382735626
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",周星驰电影
-http://cdn.jdshipin.com:8880/huya.php?id=11342412
-#http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+http://192.168.2.2:35455/huya/11342412
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",林正英电影
-http://cdn.jdshipin.com:8880/huya.php?id=11342421
-#http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+http://192.168.2.2:35455/huya/11342421
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",刘德华电影
-http://cdn.jdshipin.com:8880/huya.php?id=11342424
+http://192.168.2.2:35455/huya/11342424
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",古天乐电影
-http://cdn.jdshipin.com:8880/huya.php?id=29982675
+http://192.168.2.2:35455/huya/29982675
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",成龙电影
-http://cdn.jdshipin.com:8880/huya.php?id=11342386
+http://192.168.2.2:35455/huya/11342386
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",李连杰电影
-http://cdn.jdshipin.com:8880/huya.php?id=11342390
+http://192.168.2.2:35455/huya/11342390
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",甄子丹电影
-http://cdn.jdshipin.com:8880/huya.php?id=11352935
+http://192.168.2.2:35455/huya/11352935
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",沈腾电影
-http://cdn.jdshipin.com:8880/huya.php?id=11601968
+http://192.168.2.2:35455/huya/11601968
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",黄渤电影
-http://cdn.jdshipin.com:8880/huya.php?id=11352876
+http://192.168.2.2:35455/huya/11352876
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",王晶电影
-http://cdn.jdshipin.com:8880/huya.php?id=11602058
+http://192.168.2.2:35455/huya/11602058
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",金庸武侠
-http://cdn.jdshipin.com:8880/huya.php?id=11342435
+http://192.168.2.2:35455/huya/11342435
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",功夫电影
-http://cdn.jdshipin.com:8880/huya.php?id=11352941
+http://192.168.2.2:35455/huya/11352941
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",贺岁电影
-http://cdn.jdshipin.com:8880/huya.php?id=11601986
+http://192.168.2.2:35455/huya/11601986
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",怪兽电影
-http://cdn.jdshipin.com:8880/huya.php?id=21059577
+http://192.168.2.2:35455/huya/21059577
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",武侠电影
-http://cdn.jdshipin.com:8880/huya.php?id=11342427
+http://192.168.2.2:35455/huya/11342427
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",玄幻电影
-http://cdn.jdshipin.com:8880/huya.php?id=11342414
+http://192.168.2.2:35455/huya/11342414
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",罪犯电影
-http://cdn.jdshipin.com:8880/huya.php?id=11352962
+http://192.168.2.2:35455/huya/11352962
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",战争电影
-http://cdn.jdshipin.com:8880/huya.php?id=21059574
+http://192.168.2.2:35455/huya/21059574
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",谍战电影
-http://cdn.jdshipin.com:8880/huya.php?id=21059585
+http://192.168.2.2:35455/huya/21059585
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",枪战电影
-http://cdn.jdshipin.com:8880/huya.php?id=21059579
+http://192.168.2.2:35455/huya/21059579
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",狄仁杰电影
-http://cdn.jdshipin.com:8880/huya.php?id=30080229
+http://192.168.2.2:35455/huya/30080229
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",末日电影合集
-https://live.ottiptv.cc/yy/1354889019
+http://192.168.2.2:35455/huya/1354889019
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",宇宙科幻合集
-http://cdn.jdshipin.com:8880/huya.php?id=11342428
+http://192.168.2.2:35455/huya/11342428
 
 
 
