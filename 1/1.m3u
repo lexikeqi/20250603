@@ -398,7 +398,7 @@ rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/猫和老鼠.png" group-title="🔁轮播频道",猫和老鼠
 https://live.ottiptv.cc/huya/11352879
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/猫和老鼠.png" group-title="🔁轮播频道",猫和老鼠2
-http://192.168.2.2:35455/huya/11352879(?media=flv&cdn=hwcdn)
+http://192.168.2.2:35455/huya/11352879
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/哆啦A梦.png" group-title="🔁轮播频道",哆啦A梦
 https://live.ottiptv.cc/huya/11601963
 http://192.168.2.2:35455/huya/11601963(?media=flv&cdn=hwcdn)
