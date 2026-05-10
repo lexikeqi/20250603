@@ -398,13 +398,17 @@ rtmp://f13h.mine.nu/sat/tv051
 
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/猫和老鼠.png" group-title="🔁轮播频道",猫和老鼠
 https://live.ottiptv.cc/huya/11352879
+http://192.168.2.2:35455/huya/11352879(?media=flv&cdn=hwcdn)
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/哆啦A梦.png" group-title="🔁轮播频道",哆啦A梦
 https://live.ottiptv.cc/huya/11601963
+http://192.168.2.2:35455/huya/11601963(?media=flv&cdn=hwcdn)
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/七龙珠.png" group-title="🔁轮播频道",七龙珠
 https://live.ottiptv.cc/huya/11601966
 #http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
+http://192.168.2.2:35455/huya/11601966(?media=flv&cdn=hwcdn)
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/灌篮高手.png" group-title="🔁轮播频道",灌篮高手
 https://live.ottiptv.cc/yy/1382735626
+http://192.168.2.2:35455/huya/1382735626(?media=flv&cdn=hwcdn)
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",周星驰电影
 http://cdn.jdshipin.com:8880/huya.php?id=11342412
 #http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
