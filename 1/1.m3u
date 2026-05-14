@@ -403,7 +403,11 @@ http://192.168.2.2:35455/huya/11601963
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/七龙珠.png" group-title="🔁轮播频道",七龙珠
 http://192.168.2.2:35455/huya/11601966
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/灌篮高手.png" group-title="🔁轮播频道",灌篮高手
-http://192.168.2.2:35455/huya/1382735626
+http://192.168.2.2:35455/yy/1382735626
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/灌篮高手.png" group-title="🔁轮播频道",灌篮高手2
+http://192.168.2.2:35455/yy/1382735626(?quality=4)
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/名侦探柯南.png" group-title="🔁轮播频道",名侦探柯南
+http://192.168.2.2:35455/huya/30080236
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",周星驰电影
 http://192.168.2.2:35455/huya/11342412
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",林正英电影
@@ -539,7 +543,9 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1,tvg-id="2025年春晚" tvg-name="2025年春晚" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/2025年春晚.png" group-title="🏮春晚特辑",2025年春晚
 https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-
+https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+#EXTINF:-1,tvg-id="2025年春晚4K" tvg-name="2025年春晚4K" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/2025年春晚.png" group-title="🏮春晚特辑",2025年春晚4K
+https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 
 
 #EXTINF:-1,tvg-id="冤种说车" tvg-name="冤种说车" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/冤种说车.png" group-title="🎉抖音直播",冤种说车
