@@ -397,96 +397,178 @@ rtmp://f13h.mine.nu/sat/tv051
 
 
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/猫和老鼠.png" group-title="🔁轮播频道",猫和老鼠
-https://fy.136408.xyz:8888/huya/11352879
-
-#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/猫和老鼠.png" group-title="🔁轮播频道",猫和老鼠222
+http://192.168.2.2:35455/huya/11352879
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/猫和老鼠.png" group-title="🔁轮播频道",猫和老鼠
 https://fy.136408.xyz:8888/huya/11352879
 
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/哆啦A梦.png" group-title="🔁轮播频道",哆啦A梦
+http://192.168.2.2:35455/huya/11601963
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/哆啦A梦.png" group-title="🔁轮播频道",哆啦A梦
 https://fy.136408.xyz:8888/huya/11601963
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/七龙珠.png" group-title="🔁轮播频道",七龙珠
+http://192.168.2.2:35455/huya/11601966
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/七龙珠.png" group-title="🔁轮播频道",七龙珠
 https://fy.136408.xyz:8888/huya/11601966
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/灌篮高手.png" group-title="🔁轮播频道",灌篮高手
+http://192.168.2.2:35455/yy/1382735626
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/灌篮高手.png" group-title="🔁轮播频道",灌篮高手
 https://fy.136408.xyz:8888/yy/1382735626
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/名侦探柯南.png" group-title="🔁轮播频道",名侦探柯南
+http://192.168.2.2:35455/huya/30080236
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/名侦探柯南.png" group-title="🔁轮播频道",名侦探柯南
 https://fy.136408.xyz:8888/huya/30080236
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/火影忍者.png" group-title="🔁轮播频道",火影忍者
+http://192.168.2.2:35455/huya/29465866
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/火影忍者.png" group-title="🔁轮播频道",火影忍者
 https://fy.136408.xyz:8888/huya/29465866
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/海贼王.png" group-title="🔁轮播频道",海贼王
+http://192.168.2.2:35455/huya/29982634
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/海贼王.png" group-title="🔁轮播频道",海贼王
 https://fy.136408.xyz:8888/huya/29982634
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/宫崎骏.png" group-title="🔁轮播频道",宫崎骏
+http://192.168.2.2:35455/huya/21059614
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/宫崎骏.png" group-title="🔁轮播频道",宫崎骏
 https://fy.136408.xyz:8888/huya/21059614
 
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/赵本山.png" group-title="🔁轮播频道",赵本山
+http://192.168.2.2:35455/douyu/9817716
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/赵本山.png" group-title="🔁轮播频道",赵本山
 https://fy.136408.xyz:8888/douyu/9817716
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/周杰伦.png" group-title="🔁轮播频道",周杰伦
+http://192.168.2.2:35455/douyu/7537296
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/周杰伦.png" group-title="🔁轮播频道",周杰伦
 https://fy.136408.xyz:8888/douyu/7537296
 
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/宇宙.png" group-title="🔁轮播频道",碎片记
+http://192.168.2.2:35455/douyu/9412981
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/宇宙.png" group-title="🔁轮播频道",碎片记
 https://fy.136408.xyz:8888/douyu/9412981
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/宇宙.png" group-title="🔁轮播频道",宇宙视界
+http://192.168.2.2:35455/douyu/9498354
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/宇宙.png" group-title="🔁轮播频道",宇宙视界
 https://fy.136408.xyz:8888/douyu/9498354
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/宇宙.png" group-title="🔁轮播频道",宇宙探索飞船
+http://192.168.2.2:35455/douyu/9456028
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/宇宙.png" group-title="🔁轮播频道",宇宙探索飞船
 https://fy.136408.xyz:8888/douyu/9456028
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/宇宙.png" group-title="🔁轮播频道",世界未解之谜
+http://192.168.2.2:35455/douyu/9369468
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/宇宙.png" group-title="🔁轮播频道",世界未解之谜
 https://fy.136408.xyz:8888/douyu/9369468
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/航拍中国.png" group-title="🔁轮播频道",航拍中国
+http://192.168.2.2:35455/huya/22414123
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/航拍中国.png" group-title="🔁轮播频道",航拍中国
 https://fy.136408.xyz:8888/huya/22414123
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/中国通史.png" group-title="🔁轮播频道",中国通史
+http://192.168.2.2:35455/huya/20985822
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/中国通史.png" group-title="🔁轮播频道",中国通史
 https://fy.136408.xyz:8888/huya/20985822
 
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",周星驰电影
+http://192.168.2.2:35455/huya/11342412
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",周星驰电影
 https://fy.136408.xyz:8888/huya/11342412
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",林正英电影
+http://192.168.2.2:35455/huya/11342421
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",林正英电影
 https://fy.136408.xyz:8888/huya/11342421
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",刘德华电影
+http://192.168.2.2:35455/huya/11342424
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",刘德华电影
 https://fy.136408.xyz:8888/huya/11342424
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",古天乐电影
+http://192.168.2.2:35455/huya/29982675
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",古天乐电影
 https://fy.136408.xyz:8888/huya/29982675
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",陈小春电影
+http://192.168.2.2:35455/huya/11336719
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",陈小春电影
 https://fy.136408.xyz:8888/huya/11336719
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",梁家辉电影
+http://192.168.2.2:35455/huya/11342429
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",梁家辉电影
 https://fy.136408.xyz:8888/huya/11342429
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",成龙电影
+http://192.168.2.2:35455/huya/11342386
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",成龙电影
 https://fy.136408.xyz:8888/huya/11342386
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",李连杰电影
+http://192.168.2.2:35455/huya/11342390
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",李连杰电影
 https://fy.136408.xyz:8888/huya/11342390
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",甄子丹电影
+http://192.168.2.2:35455/huya/11352935
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",甄子丹电影
 https://fy.136408.xyz:8888/huya/11352935
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",沈腾电影
+http://192.168.2.2:35455/huya/11601968
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",沈腾电影
 https://fy.136408.xyz:8888/huya/11601968
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",黄渤电影
+http://192.168.2.2:35455/huya/11352876
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",黄渤电影
 https://fy.136408.xyz:8888/huya/11352876
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",徐克电影
+http://192.168.2.2:35455/huya/11352909
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",徐克电影
 https://fy.136408.xyz:8888/huya/11352909
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",王晶电影
+http://192.168.2.2:35455/huya/11602058
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",王晶电影
 https://fy.136408.xyz:8888/huya/11602058
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",金庸武侠
+http://192.168.2.2:35455/huya/11342435
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",金庸武侠
 https://fy.136408.xyz:8888/huya/11342435
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",功夫电影
+http://192.168.2.2:35455/huya/11352941
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",功夫电影
 https://fy.136408.xyz:8888/huya/11352941
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",贺岁电影
+http://192.168.2.2:35455/huya/11601986
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",贺岁电影
 https://fy.136408.xyz:8888/huya/11601986
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",怪兽电影
+http://192.168.2.2:35455/huya/21059577
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",怪兽电影
 https://fy.136408.xyz:8888/huya/21059577
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",武侠电影
+http://192.168.2.2:35455/huya/11342427
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",武侠电影
 https://fy.136408.xyz:8888/huya/11342427
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",玄幻电影
+http://192.168.2.2:35455/huya/11342414
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",玄幻电影
 https://fy.136408.xyz:8888/huya/11342414
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",罪犯电影
+http://192.168.2.2:35455/huya/11352962
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",罪犯电影
 https://fy.136408.xyz:8888/huya/11352962
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",战争电影
+http://192.168.2.2:35455/huya/21059574
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",战争电影
 https://fy.136408.xyz:8888/huya/21059574
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",谍战电影
+http://192.168.2.2:35455/huya/21059585
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",谍战电影
 https://fy.136408.xyz:8888/huya/21059585
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",枪战电影
+http://192.168.2.2:35455/huya/21059579
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",枪战电影
 https://fy.136408.xyz:8888/huya/21059579
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",狄仁杰电影
+http://192.168.2.2:35455/huya/30080229
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",狄仁杰电影
 https://fy.136408.xyz:8888/huya/30080229
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",末日电影合集
+http://192.168.2.2:35455/huya/1354889019
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",末日电影合集
 https://fy.136408.xyz:8888/huya/1354889019
 #EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",宇宙科幻合集
+http://192.168.2.2:35455/huya/11342428
+#EXTINF:-1 tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/轮播频道.png" group-title="🔁轮播频道",宇宙科幻合集
 https://fy.136408.xyz:8888/huya/11342428
+
 
 
 
@@ -582,20 +664,33 @@ https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 
 
 #EXTINF:-1,tvg-id="冤种说车" tvg-name="冤种说车" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/冤种说车.png" group-title="🎉抖音直播",冤种说车
+http://192.168.2.2:35455/douyin/uid/47388568477
+#EXTINF:-1,tvg-id="冤种说车" tvg-name="冤种说车" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/冤种说车.png" group-title="🎉抖音直播",冤种说车
 https://fy.136408.xyz:8888/douyin/uid/47388568477
+#EXTINF:-1,tvg-id="大双二双-直播号" tvg-name="大双二双-直播号" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/大双二双.png" group-title="🎉抖音直播",大双二双-直播号
+http://192.168.2.2:35455/douyin/uid/60873848967
 #EXTINF:-1,tvg-id="大双二双-直播号" tvg-name="大双二双-直播号" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/大双二双.png" group-title="🎉抖音直播",大双二双-直播号
 https://fy.136408.xyz:8888/douyin/uid/60873848967
 #EXTINF:-1,tvg-id="大双二双-生活号" tvg-name="大双二双-生活号" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/大双二双2.png" group-title="🎉抖音直播",大双二双-生活号
+http://192.168.2.2:35455/douyin/uid/101516853
+#EXTINF:-1,tvg-id="大双二双-生活号" tvg-name="大双二双-生活号" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/大双二双2.png" group-title="🎉抖音直播",大双二双-生活号
 https://fy.136408.xyz:8888/douyin/uid/101516853
+#EXTINF:-1,tvg-id="二手玫瑰" tvg-name="二手玫瑰" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/二手玫瑰.png" group-title="🎉抖音直播",二手玫瑰
+http://192.168.2.2:35455/douyin/uid/secondhandrose
 #EXTINF:-1,tvg-id="二手玫瑰" tvg-name="二手玫瑰" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/二手玫瑰.png" group-title="🎉抖音直播",二手玫瑰
 https://fy.136408.xyz:8888/douyin/uid/secondhandrose
 #EXTINF:-1,tvg-id="王喜" tvg-name="王喜" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/王喜.png" group-title="🎉抖音直播",王喜
+http://192.168.2.2:35455/douyin/uid/59834110771
+#EXTINF:-1,tvg-id="王喜" tvg-name="王喜" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/王喜.png" group-title="🎉抖音直播",王喜
 https://fy.136408.xyz:8888/douyin/uid/59834110771
+#EXTINF:-1,tvg-id="雪饼猴" tvg-name="雪饼猴" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/雪饼猴.png" group-title="🎉抖音直播",雪饼猴
+http://192.168.2.2:35455/douyin/uid/63225999108
 #EXTINF:-1,tvg-id="雪饼猴" tvg-name="雪饼猴" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/雪饼猴.png" group-title="🎉抖音直播",雪饼猴
 https://fy.136408.xyz:8888/douyin/uid/63225999108
 #EXTINF:-1,tvg-id="金太阳" tvg-name="金太阳" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/金太阳.png" group-title="🎉抖音直播",金太阳
+http://192.168.2.2:35455/douyin/uid/105315017159
+#EXTINF:-1,tvg-id="金太阳" tvg-name="金太阳" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/金太阳.png" group-title="🎉抖音直播",金太阳
 https://fy.136408.xyz:8888/douyin/uid/105315017159
-
 
 
 
