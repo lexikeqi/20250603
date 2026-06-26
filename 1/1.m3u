@@ -701,6 +701,11 @@ http://192.168.2.2:35455/douyin/uid/75130544035
 #EXTINF:-1,tvg-id="陕西省戏曲研究院" tvg-name="陕西省戏曲研究院" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/陕西省戏曲研究院.png" group-title="🎉抖音直播",陕西省戏曲研究院
 https://fy.136408.xyz:8888/douyin/uid/75130544035
 
+#EXTINF:-1,tvg-id="大回小回振羽" tvg-name="大回小回振羽" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/大回小回振羽.png" group-title="🎉抖音直播",大回小回振羽
+http://192.168.2.2:35455/douyin/uid/fm100.1dhxh
+#EXTINF:-1,tvg-id="大回小回振羽" tvg-name="大回小回振羽" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/大回小回振羽.png" group-title="🎉抖音直播",大回小回振羽
+https://fy.136408.xyz:8888/douyin/uid/fm100.1dhxh
+
 
 #EXTINF:-1 group-title="🏀[国内]体育直播" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",五星体育
 https://cdn15.163189.xyz/163189/9c893bb003e1c7de
