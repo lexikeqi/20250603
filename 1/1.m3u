@@ -1,23 +1,23 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1,tvg-id="CCTV-超高清4K" tvg-name="CCTV-超高清4K" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-超高清4K.png" group-title="🇨🇳央视频道",CCTV-超高清4K
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-超高清4K.png" group-title="🇨🇳央视频道",CCTV-超高清4K
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225761/10000100000000060000000014254011_0.smil
-#EXTINF:-1,tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-1 综合.png" group-title="🇨🇳央视频道",CCTV-1 综合
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-1 综合.png" group-title="🇨🇳央视频道",CCTV-1 综合
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225620/10000100000000060000000014261464_0.smil
-#EXTINF:-1,tvg-id="CCTV-2 财经" tvg-name="CCTV-2 财经" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-2 财经.png" group-title="🇨🇳央视频道",CCTV-2 财经
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-2 财经.png" group-title="🇨🇳央视频道",CCTV-2 财经
 rtsp://222.161.239.170:554/PLTV/88888888/224/3221225799/10000100000000060000000014274939_0.smil
-#EXTINF:-1,tvg-id="CCTV-3 综艺" tvg-name="CCTV-3 综艺" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-3 综艺.png" group-title="🇨🇳央视频道",CCTV-3 综艺
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-3 综艺.png" group-title="🇨🇳央视频道",CCTV-3 综艺
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221226127/10000100000000060000000015558809_0.smil
-#EXTINF:-1,tvg-id="CCTV-4 中文国际" tvg-name="CCTV-4 中文国际" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-4 中文国际.png" group-title="🇨🇳央视频道",CCTV-4 中文国际
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-4 中文国际.png" group-title="🇨🇳央视频道",CCTV-4 中文国际
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221226245/10000100000000060000000016631556_0.smil
-#EXTINF:-1,tvg-id="CCTV-4 中文国际欧洲" tvg-name="CCTV-4 中文国际欧洲" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-4 中文国际欧洲.png" group-title="🇨🇳央视频道",CCTV-4 中文国际欧洲
+#EXTINF:-1,tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-4 中文国际欧洲.png" group-title="🇨🇳央视频道",CCTV-4 中文国际欧洲
 rtsp://222.161.239.170:554/PLTV/88888888/224/3221226231/10000100000000060000000016336628_0.smil
-#EXTINF:-1,tvg-id="CCTV-4 中文国际美洲" tvg-name="CCTV-4 中文国际美洲" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-4 中文国际美洲.png" group-title="🇨🇳央视频道",CCTV-4 中文国际美洲
+#EXTINF:-1,tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-4 中文国际美洲.png" group-title="🇨🇳央视频道",CCTV-4 中文国际美洲
 rtsp://222.161.239.170:554/PLTV/88888888/224/3221225894/10000100000000060000000016336632_0.smil
-#EXTINF:-1,tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-5 体育.png" group-title="🇨🇳央视频道",CCTV-5 体育
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-5 体育.png" group-title="🇨🇳央视频道",CCTV-5 体育
 rtsp://222.161.239.170:554/PLTV/88888888/224/3221226129/10000100000000060000000015558810_0.smil
-#EXTINF:-1,tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-5+ 体育赛事.png" group-title="🇨🇳央视频道",CCTV-5+ 体育赛事
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-5+ 体育赛事.png" group-title="🇨🇳央视频道",CCTV-5+ 体育赛事
 rtsp://222.161.239.171:554/PLTV/88888888/224/3221225720/10000100000000060000000014868371_0.smil
-#EXTINF:-1,tvg-id="CCTV-6 电影" tvg-name="CCTV-6 电影" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-6 电影.png" group-title="🇨🇳央视频道",CCTV-6 电影
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-6 电影.png" group-title="🇨🇳央视频道",CCTV-6 电影
 rtsp://222.161.239.170:554/PLTV/88888888/224/3221226131/10000100000000060000000015558811_0.smil
 #EXTINF:-1,tvg-id="CCTV-7 国防军事" tvg-name="CCTV-7 国防军事" tvg-logo="https://gh.136408.xyz/https://raw.githubusercontent.com/lexikeqi/20250603/refs/heads/main/2/CCTV-7 国防军事.png" group-title="🇨🇳央视频道",CCTV-7 国防军事
 rtsp://222.161.239.170:554/PLTV/88888888/224/3221226239/10000100000000060000000016498531_0.smil
